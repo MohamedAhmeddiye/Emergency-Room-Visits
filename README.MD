@@ -59,7 +59,7 @@ RETURN
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohamedAhmeddiye/Raw_Car_Dashboard.git
+   https://github.com/MohamedAhmeddiye/Emergency-Room-Visits.git
    ```
 2. Open the `Emergency Room Visits My-Dashboard.pbix` file in Power BI Desktop.
 3. Explore the pages and interact with the visualizations.
